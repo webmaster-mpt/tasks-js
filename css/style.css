@@ -1,0 +1,7 @@
+.view-task{
+    display: inline-flex;
+    margin: 10px;
+}
+#textSpan{
+    margin-right: 50px;
+}
